@@ -342,3 +342,9 @@ AutomationFW.Test/Screenshots/*
 !AutomationFW.Test/Logs/.gitkeep 
 !AutomationFW.Test/Results/.gitkeep
 !AutomationFW.Test/Screenshots/.gitkeep
+!AutomationFW.Test/Features/.gitkeep
+!AutomationFW.Test/PageModels/.gitkeep
+!AutomationFW.Test/Queries/.gitkeep
+!AutomationFW.Test/Reports/.gitkeep
+!AutomationFW.Test/Steps/.gitkeep
+!AutomationFW.Test/TestDataModels/.gitkeep
