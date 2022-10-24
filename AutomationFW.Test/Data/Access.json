@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "OracleConnectionString": {
+      "DataSource": "string",
+      "UserID": "user",
+      "Password": "password"
+    },
+    "SqlConnectionString": {
+      "DataSource": ""
+    }
+  },
+  "test": {
+    "OracleConnectionString": {
+      "DataSource": "string",
+      "UserID": "user",
+      "Password": "password"
+    },
+    "SqlConnectionString": {
+      "DataSource": ""
+    }
+  },
+  "preprod": {
+    "OracleConnectionString": {
+      "DataSource": "string",
+      "UserID": "user",
+      "Password": "password"
+    },
+    "SqlConnectionString": {
+      "DataSource": ""
+    }
+  }
+}

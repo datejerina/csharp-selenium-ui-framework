@@ -1,0 +1,16 @@
+{
+  "devTestData": {
+    "name1": [
+      {
+        "account": "1234567890"
+      }
+    ],
+    "name2": [
+      {
+        "account": "",
+        "email": "",
+        "debtorId": ""
+      }
+    ]
+  }
+}

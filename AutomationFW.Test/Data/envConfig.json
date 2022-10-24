@@ -1,0 +1,24 @@
+{
+  "devConfig": {
+    "baseUrl": "https://URL/",
+    "ValidityLoggingConfig": {
+      "useValidityLogging": "true",
+      "onlyShowFirstSixOfAccount": "false"
+    }
+  },
+
+  "testConfig": {
+    "baseUrl": "https://URL/",
+    "ValidityLoggingConfig": {
+      "useValidityLogging": "true",
+      "onlyShowFirstSixOfAccount": "false"
+    }
+  },
+  "preprodConfig": {
+    "baseUrl": "https://URL/",
+    "ValidityLoggingConfig": {
+      "useValidityLogging": "true",
+      "onlyShowFirstSixOfAccount": "false"
+    }
+  }
+}
