@@ -1,6 +1,6 @@
 {
   "devConfig": {
-    "baseUrl": "https://URL/",
+    "baseUrl": "https://www.demoblaze.com/",
     "ValidityLoggingConfig": {
       "useValidityLogging": "true",
       "onlyShowFirstSixOfAccount": "false"
@@ -8,14 +8,14 @@
   },
 
   "testConfig": {
-    "baseUrl": "https://URL/",
+    "baseUrl": "https://www.demoblaze.com/",
     "ValidityLoggingConfig": {
       "useValidityLogging": "true",
       "onlyShowFirstSixOfAccount": "false"
     }
   },
   "preprodConfig": {
-    "baseUrl": "https://URL/",
+    "baseUrl": "https://www.demoblaze.com/",
     "ValidityLoggingConfig": {
       "useValidityLogging": "true",
       "onlyShowFirstSixOfAccount": "false"

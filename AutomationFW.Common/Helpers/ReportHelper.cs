@@ -23,11 +23,11 @@ namespace AutomationFW.Common.Helpers
             //Initialize Extent report before test starts
             var htmlReporter = new ExtentHtmlReporter(ReportPath + ReportName);
             htmlReporter.Config.DocumentTitle = "Automation Testing Report - Testing";
-            htmlReporter.Config.ReportName = "Regression Testing";
+            htmlReporter.Config.ReportName = "Functional Testing";
             htmlReporter.Config.Theme = Theme.Standard;
             //Attach report to reporter
             extent = new ExtentReports();
-            extent.AddSystemInfo("Application Under Test", "Automation");
+            extent.AddSystemInfo("Application Under Test", "demoblaze - PRODUCT STORE");
             extent.AddSystemInfo("Environment", defaultEnvironment);
             extent.AddSystemInfo("Machine", Environment.MachineName);
             extent.AttachReporter(htmlReporter);
